@@ -16,6 +16,23 @@ This is a dump of all portfolio. First you have to create a Issue with the given
     - `job-title`
     - `fresher` or `experienced`
 
+## Changes to make in Read me
+- Change the count of total portfolio
+- Change the count of portfolio of specific job title (make new coloum if not present)
+
+## Changes to make in Repo
+- If your job title is already present 
+    - Go to the folder and create a folder with format `Your Name - [Experienced/Fresher]`
+    - add your portfolio in it
+    - Also add a Readme file to your folder containing.
+        - Your Name
+        - Your Job Title
+        - Live Portfolio Link
+        - Your LinkedIn Profile Link
+        - Your GitHub Profile Link 
+
+- If not, create a new folder with your job title and follow like previous one.
+
 ## Pull Request Process
 
 1. Ensure that code is not plagiarized.
@@ -23,12 +40,3 @@ This is a dump of all portfolio. First you have to create a Issue with the given
 3. Always connect your PR with your issue.
 4. When you want your PR to be merges, please mention it in the issue.
 5. If you want to work on an issue that you have not created, please comment on it and wait for the approval.
-
-## Changes to make in Read me
-- Change the count of total portfolio
-- Change the count of portfolio of specific job title (make new coloum if not present)
-
-## File Directory Structure
-- If your job title is already present then go to its folder and add your portfolio. 
-
-- If not, create a new folder with your job title and add your portfolio.
