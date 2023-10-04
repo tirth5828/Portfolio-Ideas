@@ -5,11 +5,11 @@ A one stop solutoin for all the portfolio ideas and templetes.
 
 # Statistics
 
-| Total Portfolio | 1 |
+| Total Portfolio | 2 |
 | --- | --- |
 | Web Developer | 0 |
 | Android Developer | 1 |
-| Machine Learning Engineer | 0 |
+| Machine Learning | 1 |
 | Data Scientist | 0 |
 | UI/UX Designer | 0 |
 | Content Writer | 0 |
